@@ -1,1 +1,1 @@
-A developer who wants to contribute to opne source projects!
+A developer who wants to contribute to open source projects!
